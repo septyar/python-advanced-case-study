@@ -1,0 +1,17 @@
+=== SIMULASI LOGIN DAN AUDIT LOG ===
+
+1. Username tidak sesuai aturan
+[2026-10-11 12:07:32] Pengguna: 'ab!' | Status: DITOLAK
+  Alasan: username harus minimal 5 karakter dan hanya berisi huruf/angka
+
+2. Password terlalu pendek
+[2026-10-11 12:07:32] Pengguna: 'septya01' | Status: DITOLAK
+  Alasan: password harus minimal 8 karakter
+
+3. Password tidak mengandung angka
+[2026-10-11 12:07:32] Pengguna: 'septya02' | Status: DITOLAK
+  Alasan: password harus mengandung minimal satu angka
+
+4. Login berhasil
+[2026-10-11 12:07:32] Pengguna: 'septya03' | Status: BERHASIL
+  Alasan: format username dan password memenuhi aturan

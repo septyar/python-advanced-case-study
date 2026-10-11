@@ -1,0 +1,23 @@
+=== ANALISIS NILAI MAHASISWA ===
+Bobot: Tugas 30% | UTS 30% | UAS 40%
+
+DAFTAR NILAI AKHIR
+Aisyah     NIM: 230101 | Nilai akhir: 84.70
+Budi       NIM: 230102 | Nilai akhir: 70.50
+Cantika    NIM: 230103 | Nilai akhir: 89.30
+Dimas      NIM: 230104 | Nilai akhir: 80.00
+Eka        NIM: 230105 | Nilai akhir: 89.70
+
+MAHASISWA BERPRESTASI (nilai > 80)
+- Aisyah (230101) - 84.70
+- Cantika (230103) - 89.30
+- Eka (230105) - 89.70
+
+PERINGKAT
+1. Eka (230105) - 89.70
+2. Cantika (230103) - 89.30
+3. Aisyah (230101) - 84.70
+4. Dimas (230104) - 80.00
+5. Budi (230102) - 70.50
+
+MAHASISWA TERBAIK: Eka, NIM 230105, nilai 89.70

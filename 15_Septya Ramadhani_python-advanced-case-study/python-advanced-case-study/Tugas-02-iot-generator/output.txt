@@ -1,0 +1,11 @@
+=== PEMANTAUAN SUHU SENSOR IoT ===
+Pembacaan ke-01: 16.5 °C | Status: Dingin
+Pembacaan ke-02: 18.0 °C | Status: Dingin
+Pembacaan ke-03: 19.8 °C | Status: Dingin
+Pembacaan ke-04: 20.0 °C | Status: Normal
+Pembacaan ke-05: 22.4 °C | Status: Normal
+Pembacaan ke-06: 25.0 °C | Status: Normal
+Pembacaan ke-07: 27.6 °C | Status: Normal
+Pembacaan ke-08: 30.0 °C | Status: Normal
+Pembacaan ke-09: 31.5 °C | Status: Panas
+Pembacaan ke-10: 34.2 °C | Status: Panas
